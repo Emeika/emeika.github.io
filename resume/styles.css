@@ -1,5 +1,6 @@
 body{
     background-color: rgb(122, 5, 5);
+    background-image: url(bg.jpeg);
 }
 
 .navbar {
